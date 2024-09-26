@@ -1,1 +1,2 @@
-# uplift_analysis
+## Overview
+This repository contains code and resources for analyzing email marketing data with the goal of uncovering the heterogeneous effects of marketing campaigns on different audience segments. By employing statistical analysis and machine learning techniques like uplift model, identify how various groups respond differently to marketing efforts, allowing for more targeted and effective marketing strategies.  
